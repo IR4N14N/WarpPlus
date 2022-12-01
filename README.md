@@ -1,5 +1,5 @@
 # WarpPlus - Get 1 GB Warp + with 1 request !
-![alt text](https://raw.githubusercontent.com/IR4N14N/WarpPlus/main/Test.jpg)
+![Test](https://user-images.githubusercontent.com/97558053/205161394-db4e6180-3054-4a07-bc64-bd6a582408d9.jpg)
 <h2>Installation and Usage (python 3)</h2><br />
 pip install -r requirements.txt <br />
 python WarpPlus.py <br />
